@@ -136,5 +136,3 @@ cybersecurity-lab/
 ```
 
 ---
-
-If you want, I can also generate a **clean GitHub profile README** for your main account page so this project stands out even more.
