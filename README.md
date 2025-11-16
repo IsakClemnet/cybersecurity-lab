@@ -20,7 +20,7 @@ A visual network diagram will be added here.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * **VirtualBox** (or VMware Player)
 * **Kali Linux** – attacker machine
@@ -47,7 +47,7 @@ A visual network diagram will be added here.
 
 ---
 
-## 📤 Phase 1 — Reconnaissance & Scanning (Upcoming)
+## Phase 1 — Reconnaissance & Scanning (Upcoming)
 
 All notes and screenshots will be stored in:
 
@@ -117,7 +117,7 @@ No scanning, exploitation, or testing was performed on real devices or external 
 
 ---
 
-## 📄 Project Structure
+## Project Structure
 
 ```
 cybersecurity-lab/
