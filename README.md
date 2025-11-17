@@ -10,13 +10,16 @@ This lab uses **Kali Linux (attacker)** and a **vulnerable machine (victim)** to
 
 ##  Lab Architecture
 
-**Status:** Early setup phase 
-A visual network diagram will be added here.
+This project uses a simple, isolated lab environment built within VirtualBox.
 
-```
-/diagrams  
-│── network-diagram.png   (coming soon)
-```
+![Lab Architecture](diagrams/Cybersecurity%20Diagram.drawio.png)
+
+The architecture consists of two virtual machines:
+
+* **Attacker VM:** A Kali Linux instance, which comes pre-loaded with a full suite of security and penetration testing tools.
+* **Victim VM:** A Metasploitable 2 instance, an intentionally vulnerable version of Linux designed for security training and testing.
+
+Both VMs are connected exclusively to a **VirtualBox Internal Network (VBoxNet)**. This isolates the lab, preventing the vulnerable machine from being exposed to the public internet and keeping all attack traffic safely contained.
 
 ---
 
