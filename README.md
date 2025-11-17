@@ -12,7 +12,7 @@ This lab uses **Kali Linux (attacker)** and a **vulnerable machine (victim)** to
 
 This project uses a simple, isolated lab environment built within VirtualBox.
 
-![Lab Architecture](Diagram/CybersecurityDiagram.drawio.png)
+![Lab Architecture](Diagram/Cybersecurity_Diagram.drawio.png)
 
 The architecture consists of two virtual machines:
 
